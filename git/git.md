@@ -11,3 +11,6 @@ how to update your modify code up to date:
 http://blog.csdn.net/u010697394/article/details/55252429
 
 test
+
+Introduce the git usually cmd:
+http://www.cnblogs.com/oymx/p/5359645.html
