@@ -9,3 +9,5 @@ git add --help  can help you know that how to control the git add command
 
 how to update your modify code up to date:
 http://blog.csdn.net/u010697394/article/details/55252429
+
+test
