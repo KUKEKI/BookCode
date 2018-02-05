@@ -3,3 +3,11 @@ Java中高并发下怎么保证数据一致性
 how to ensure the consistecy of data in the high concurrecy environment
 
 https://www.zhihu.com/question/68400063/answer/263424747
+http://blog.csdn.net/u012345683/article/details/78577010
+
+how to  distributed  system 
+http://blog.csdn.net/gaowenhui2008/article/details/53910341
+
+构建高并发高可用的电商平台架构实践
+http://blog.csdn.net/yangbutao/article/details/12242441
+http://blog.csdn.net/isoleo/article/details/51516989

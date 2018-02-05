@@ -14,3 +14,9 @@ test
 
 Introduce the git usually cmd:
 http://www.cnblogs.com/oymx/p/5359645.html
+
+
+
+http://blog.sina.com.cn/s/blog_66cd08930102x0ln.html
+
+how to reset the git data
